@@ -1,4 +1,4 @@
 # viniciushenriquedagama.github.io
 
-<a href="viniciushenriquedagama.github.io/projeto-gta
+<a href="/projeto-gta
 /index.html">Projeto GTA</a>
